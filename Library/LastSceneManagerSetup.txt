@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Blood.unity
+  isLoaded: 1
+  isActive: 1
